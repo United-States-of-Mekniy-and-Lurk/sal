@@ -1,0 +1,12 @@
+/home/runner/work/sal/sal/src/CitizenService.Domain/bin/Debug/net10.0/CitizenService.Domain.deps.json
+/home/runner/work/sal/sal/src/CitizenService.Domain/bin/Debug/net10.0/CitizenService.Domain.dll
+/home/runner/work/sal/sal/src/CitizenService.Domain/bin/Debug/net10.0/CitizenService.Domain.pdb
+/home/runner/work/sal/sal/src/CitizenService.Domain/obj/Debug/net10.0/CitizenService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/sal/sal/src/CitizenService.Domain/obj/Debug/net10.0/CitizenService.Domain.AssemblyInfoInputs.cache
+/home/runner/work/sal/sal/src/CitizenService.Domain/obj/Debug/net10.0/CitizenService.Domain.AssemblyInfo.cs
+/home/runner/work/sal/sal/src/CitizenService.Domain/obj/Debug/net10.0/CitizenService.Domain.csproj.CoreCompileInputs.cache
+/home/runner/work/sal/sal/src/CitizenService.Domain/obj/Debug/net10.0/CitizenService.Domain.sourcelink.json
+/home/runner/work/sal/sal/src/CitizenService.Domain/obj/Debug/net10.0/CitizenService.Domain.dll
+/home/runner/work/sal/sal/src/CitizenService.Domain/obj/Debug/net10.0/refint/CitizenService.Domain.dll
+/home/runner/work/sal/sal/src/CitizenService.Domain/obj/Debug/net10.0/CitizenService.Domain.pdb
+/home/runner/work/sal/sal/src/CitizenService.Domain/obj/Debug/net10.0/ref/CitizenService.Domain.dll
