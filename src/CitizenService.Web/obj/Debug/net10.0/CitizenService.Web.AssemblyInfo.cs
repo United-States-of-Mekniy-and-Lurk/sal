@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CitizenService.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83ac7f12c59f9e83411dfe14b51499ca08de882c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+890d42d5774e447a0c7c642379c0961015b19b31")]
 [assembly: System.Reflection.AssemblyProductAttribute("CitizenService.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CitizenService.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
