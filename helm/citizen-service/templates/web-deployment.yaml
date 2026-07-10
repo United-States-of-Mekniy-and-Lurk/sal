@@ -5,10 +5,6 @@ metadata:
   labels:
     {{- include "citizen-service.labels" . | nindent 4 }}
     app.kubernetes.io/component: web
-  {{- with .Values.web.podAnnotations }}
-  annotations:
-    {{- toYaml . | nindent 4 }}
-  {{- end }}
 spec:
   replicas: {{ .Values.web.replicaCount }}
   selector:

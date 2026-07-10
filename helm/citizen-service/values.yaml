@@ -96,7 +96,7 @@ secret:
   # -- Secret values used when existingSecret is empty and the chart creates the Secret.
   # These values are base64-encoded by Kubernetes — do NOT commit real credentials here.
   # Override via --set or an encrypted values file (e.g. helm-secrets / Sealed Secrets).
-  connectionString: "Host=postgres;Database=citizenservice;Username=postgres;******"
+  connectionString: "CHANGEME_CONNECTION_STRING"
   oidcClientSecret: "CHANGE_ME"
 
 nameOverride: ""
